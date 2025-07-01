@@ -1,0 +1,12 @@
+D:\ITransition\TaskFive\TaskFive.Core\bin\Debug\net8.0\TaskFive.Core.deps.json
+D:\ITransition\TaskFive\TaskFive.Core\bin\Debug\net8.0\TaskFive.Core.dll
+D:\ITransition\TaskFive\TaskFive.Core\bin\Debug\net8.0\TaskFive.Core.pdb
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.AssemblyInfoInputs.cache
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.AssemblyInfo.cs
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.csproj.CoreCompileInputs.cache
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.dll
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\refint\TaskFive.Core.dll
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.pdb
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\ref\TaskFive.Core.dll
+D:\ITransition\TaskFive\TaskFive.Core\obj\Debug\net8.0\TaskFive.Core.sourcelink.json

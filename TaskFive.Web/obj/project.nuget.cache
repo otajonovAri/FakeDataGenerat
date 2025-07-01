@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xq81Tg3ja84=",
+  "success": true,
+  "projectFilePath": "D:\\ITransition\\TaskFive\\TaskFive.Web\\TaskFive.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

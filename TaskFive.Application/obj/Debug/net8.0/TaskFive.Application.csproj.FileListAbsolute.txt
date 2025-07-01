@@ -1,0 +1,16 @@
+D:\ITransition\TaskFive\TaskFive.Application\bin\Debug\net8.0\TaskFive.Application.deps.json
+D:\ITransition\TaskFive\TaskFive.Application\bin\Debug\net8.0\TaskFive.Application.dll
+D:\ITransition\TaskFive\TaskFive.Application\bin\Debug\net8.0\TaskFive.Application.pdb
+D:\ITransition\TaskFive\TaskFive.Application\bin\Debug\net8.0\TaskFive.Core.dll
+D:\ITransition\TaskFive\TaskFive.Application\bin\Debug\net8.0\TaskFive.Core.pdb
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.csproj.AssemblyReference.cache
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.AssemblyInfoInputs.cache
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.AssemblyInfo.cs
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.csproj.CoreCompileInputs.cache
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.7F30DB9F.Up2Date
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.dll
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\refint\TaskFive.Application.dll
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.pdb
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\ref\TaskFive.Application.dll
+D:\ITransition\TaskFive\TaskFive.Application\obj\Debug\net8.0\TaskFive.Application.sourcelink.json
